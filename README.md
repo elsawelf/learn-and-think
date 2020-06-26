@@ -1,2 +1,2 @@
 # learn-and-think
-A collection of good videos and materials for thoughts
+A collection of good materials for thoughts and learning in daily life.
